@@ -22,3 +22,4 @@ Bu projede, AWS Management Console kullanarak bir veritabanı altyapısının fe
 ![](explanation_3.png)
 ![](explanation_4.png)
 ![](explanation_5.png)
+![](explanation_5.png)
