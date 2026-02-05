@@ -17,3 +17,8 @@ Bu projede, AWS Management Console kullanarak bir veritabanı altyapısının fe
 ## Sonuçlar
 - **Kesinti Süresi:** Failover süreci 60 saniyenin altında, rekor bir hızla (aynı dakika içerisinde) tamamlanmıştır. (February 05, 2026, 03:17 (UTC+03:00))
 - **Veri Güvenliği:** Ana sunucu düşse bile verilerin yedek sunucuda hazır olduğu doğrulandı.
+![](explanation_1.png)
+![](explanation_2.png)
+![](explanation_3.png)
+![](explanation_4.png)
+![](explanation_5.png)
